@@ -8,7 +8,7 @@
  * Space Complexity: O(n), Based on the longest String.
  * Study Plan: LeetCode 75
  * Category: Array / String 
- * Language Used: Javascript
+ * Language Used: JavaScript
  * Tags: Two Pointer, String
  */
 
