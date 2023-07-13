@@ -7,7 +7,7 @@ import re
      * Difficulty: Easy
      * Time Complexity: O(n)
      * Space Complexity: O(n)
-     * Language Used: Java
+     * Language Used: Python
      * Tags: String
 """
 
