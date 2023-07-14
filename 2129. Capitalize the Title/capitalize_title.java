@@ -18,6 +18,12 @@ public class capitalize_title {
 
     }
 
+    /**
+     * Receives a string to return in its correctly capitalized format
+     * 
+     * @param title A string with the sentence to capitalize correctly
+     * @return A string with a correctly capitalized structure
+     */
     public static String capitalizeTitle(String title) {
         // Split the string by its whitespaces in order to verify each word in the
         // sentence.
