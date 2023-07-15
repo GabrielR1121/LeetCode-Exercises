@@ -21,7 +21,7 @@ public class palindrome_num {
     /**
      * Checks if a number is a palindrome
      * @param x A number
-     * @return True or Flase depending on if the number is a palindrome or not
+     * @return True or False depending on if the number is a palindrome or not
      */
     public static boolean isPalindrome(int x) {
 
