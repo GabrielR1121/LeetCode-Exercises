@@ -11,7 +11,7 @@
 */
 
 /**
- * Takes 2 numbers and returns the amount of odds inbetween them.
+ * Takes 2 numbers and returns the amount of odds inbetween them
  * @param {number} low The low end of the range 
  * @param {number} high The high end of the range
  * @return {number} The amount of odd numbers inbetween low and high ends
