@@ -23,7 +23,7 @@ var reverseWords = function(s) {
     //Temp variable to fild each word
     let temp = [];
 
-    //Traverse the words and fild them individually 
+    //Traverse the words and flipped them individually 
     for(let i=0; i<words.length; i++)
         temp.push(words[i].split("").reverse().join(""));
 
